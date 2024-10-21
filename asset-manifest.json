@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Binance-Market-App/static/css/main.3636d7cf.css",
+    "main.js": "/Binance-Market-App/static/js/main.e0eb8d05.js",
+    "static/js/453.7f57269a.chunk.js": "/Binance-Market-App/static/js/453.7f57269a.chunk.js",
+    "index.html": "/Binance-Market-App/index.html",
+    "main.3636d7cf.css.map": "/Binance-Market-App/static/css/main.3636d7cf.css.map",
+    "main.e0eb8d05.js.map": "/Binance-Market-App/static/js/main.e0eb8d05.js.map",
+    "453.7f57269a.chunk.js.map": "/Binance-Market-App/static/js/453.7f57269a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3636d7cf.css",
+    "static/js/main.e0eb8d05.js"
+  ]
+}
